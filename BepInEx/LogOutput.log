@@ -1,0 +1,832 @@
+﻿[Message:   BepInEx] BepInEx 5.4.9.0 - valheim_server
+[Info   :   BepInEx] Running under Unity vUnknown (post-2017)
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Linux
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Info   :   BepInEx] Detected Unity version: v2019.4.20f1
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 5 plugins to load
+[Warning:   BepInEx] Skipping [Hitbox Fix 1.0] because of process filters (valheim.exe)
+[Info   :   BepInEx] Loading [UnrestrictedPortals 1.3.1.0]
+[Info   :   BepInEx] Loading [BetterTrader 1.0.6.0]
+[Info   : Unity Log] [Better Trader] Found 216 matches
+[Info   : Unity Log] 
+[Better Trader] Initializing config for [Amber]
+[Better Trader] Initializing config for [AmberPearl]
+[Better Trader] Initializing config for [Ruby]
+[Better Trader] Initializing config for [HelmetYule]
+[Better Trader] Initializing config for [HelmetDverger]
+[Better Trader] Initializing config for [BeltStrength]
+[Better Trader] Initializing config for [YmirRemains]
+[Better Trader] Initializing config for [FishingRod]
+[Better Trader] Initializing config for [FishingBait]
+[Better Trader] Initializing config for [AncientSeed]
+[Better Trader] Initializing config for [ArmorBronzeChest]
+[Better Trader] Initializing config for [ArmorBronzeLegs]
+[Better Trader] Initializing config for [ArmorIronChest]
+[Better Trader] Initializing config for [ArmorIronLegs]
+[Better Trader] Initializing config for [ArmorLeatherChest]
+[Better Trader] Initializing config for [ArmorLeatherLegs]
+[Better Trader] Initializing config for [ArmorPaddedCuirass]
+[Better Trader] Initializing config for [ArmorPaddedGreaves]
+[Better Trader] Initializing config for [ArmorRagsChest]
+[Better Trader] Initializing config for [ArmorRagsLegs]
+[Better Trader] Initializing config for [ArmorTrollLeatherChest]
+[Better Trader] Initializing config for [ArmorTrollLeatherLegs]
+[Better Trader] Initializing config for [ArmorWolfChest]
+[Better Trader] Initializing config for [ArmorWolfLegs]
+[Better Trader] Initializing config for [ArrowWood]
+[Better Trader] Initializing config for [ArrowFlint]
+[Better Trader] Initializing config for [ArrowBronze]
+[Better Trader] Initializing config for [ArrowFire]
+[Better Trader] Initializing config for [ArrowIron]
+[Better Trader] Initializing config for [ArrowObsidian]
+[Better Trader] Initializing config for [ArrowSilver]
+[Better Trader] Initializing config for [ArrowPoison]
+[Better Trader] Initializing config for [ArrowFrost]
+[Better Trader] Initializing config for [ArrowNeedle]
+[Better Trader] Initializing config for [AtgeirBlackmetal]
+[Better Trader] Initializing config for [AtgeirIron]
+[Better Trader] Initializing config for [AtgeirBronze]
+[Better Trader] Initializing config for [AxeBlackMetal]
+[Better Trader] Initializing config for [AxeIron]
+[Better Trader] Initializing config for [AxeBronze]
+[Better Trader] Initializing config for [AxeFlint]
+[Better Trader] Initializing config for [AxeStone]
+[Better Trader] Initializing config for [Barley]
+[Better Trader] Initializing config for [Battleaxe]
+[Better Trader] Initializing config for [BeechSeeds]
+[Better Trader] Initializing config for [BlackMetalScrap]
+[Better Trader] Initializing config for [Bloodbag]
+[Better Trader] Initializing config for [Blueberries]
+[Better Trader] Initializing config for [BombOoze]
+[Better Trader] Initializing config for [BoneFragments]
+[Better Trader] Initializing config for [BowDraugrFang]
+[Better Trader] Initializing config for [BowHuntsman]
+[Better Trader] Initializing config for [BowFineWood]
+[Better Trader] Initializing config for [Bow]
+[Better Trader] Initializing config for [CapeLinen]
+[Better Trader] Initializing config for [CapeLox]
+[Better Trader] Initializing config for [CapeWolf]
+[Better Trader] Initializing config for [CapeTrollHide]
+[Better Trader] Initializing config for [CapeDeerHide]
+[Better Trader] Initializing config for [Carrot]
+[Better Trader] Initializing config for [CarrotSeeds]
+[Better Trader] Initializing config for [Chain]
+[Better Trader] Initializing config for [Chitin]
+[Better Trader] Initializing config for [Cloudberry]
+[Better Trader] Initializing config for [Club]
+[Better Trader] Initializing config for [Coal]
+[Better Trader] Initializing config for [Copper]
+[Better Trader] Initializing config for [CopperOre]
+[Better Trader] Initializing config for [CryptKey]
+[Better Trader] Initializing config for [Crystal]
+[Better Trader] Initializing config for [Cultivator]
+[Better Trader] Initializing config for [Dandelion]
+[Better Trader] Initializing config for [DeerHide]
+[Better Trader] Initializing config for [DragonEgg]
+[Better Trader] Initializing config for [DragonTear]
+[Better Trader] Initializing config for [ElderBark]
+[Better Trader] Initializing config for [Entrails]
+[Better Trader] Initializing config for [Feathers]
+[Better Trader] Initializing config for [FineWood]
+[Better Trader] Initializing config for [FirCone]
+[Better Trader] Initializing config for [FishRaw]
+[Better Trader] Initializing config for [FlametalOre]
+[Better Trader] Initializing config for [Flax]
+[Better Trader] Initializing config for [Flint]
+[Better Trader] Initializing config for [FreezeGland]
+[Better Trader] Initializing config for [GreydwarfEye]
+[Better Trader] Initializing config for [Guck]
+[Better Trader] Initializing config for [Hammer]
+[Better Trader] Initializing config for [HardAntler]
+[Better Trader] Initializing config for [HelmetPadded]
+[Better Trader] Initializing config for [HelmetDrake]
+[Better Trader] Initializing config for [HelmetIron]
+[Better Trader] Initializing config for [HelmetBronze]
+[Better Trader] Initializing config for [HelmetTrollLeather]
+[Better Trader] Initializing config for [HelmetLeather]
+[Better Trader] Initializing config for [Hoe]
+[Better Trader] Initializing config for [Honey]
+[Better Trader] Initializing config for [Iron]
+[Better Trader] Initializing config for [IronOre]
+[Better Trader] Initializing config for [IronScrap]
+[Better Trader] Initializing config for [KnifeBlackMetal]
+[Better Trader] Initializing config for [KnifeChitin]
+[Better Trader] Initializing config for [KnifeCopper]
+[Better Trader] Initializing config for [KnifeFlint]
+[Better Trader] Initializing config for [LeatherScraps]
+[Better Trader] Initializing config for [LoxMeat]
+[Better Trader] Initializing config for [LoxPelt]
+[Better Trader] Initializing config for [MaceNeedle]
+[Better Trader] Initializing config for [MaceSilver]
+[Better Trader] Initializing config for [MaceIron]
+[Better Trader] Initializing config for [MaceBronze]
+[Better Trader] Initializing config for [Mushroom]
+[Better Trader] Initializing config for [MushroomBlue]
+[Better Trader] Initializing config for [MushroomYellow]
+[Better Trader] Initializing config for [NeckTail]
+[Better Trader] Initializing config for [Needle]
+[Better Trader] Initializing config for [Obsidian]
+[Better Trader] Initializing config for [Ooze]
+[Better Trader] Initializing config for [PickaxeIron]
+[Better Trader] Initializing config for [PickaxeBronze]
+[Better Trader] Initializing config for [PickaxeStone]
+[Better Trader] Initializing config for [PickaxeAntler]
+[Better Trader] Initializing config for [PineCone]
+[Better Trader] Initializing config for [QueenBee]
+[Better Trader] Initializing config for [Raspberry]
+[Better Trader] Initializing config for [RawMeat]
+[Better Trader] Initializing config for [Resin]
+[Better Trader] Initializing config for [SerpentMeat]
+[Better Trader] Initializing config for [SerpentScale]
+[Better Trader] Initializing config for [ShieldBlackmetalTower]
+[Better Trader] Initializing config for [ShieldBlackmetal]
+[Better Trader] Initializing config for [ShieldIronTower]
+[Better Trader] Initializing config for [ShieldIronSquare]
+[Better Trader] Initializing config for [ShieldKnight]
+[Better Trader] Initializing config for [ShieldSerpentscale]
+[Better Trader] Initializing config for [ShieldSilver]
+[Better Trader] Initializing config for [ShieldBanded]
+[Better Trader] Initializing config for [ShieldBronzeBuckler]
+[Better Trader] Initializing config for [ShieldWoodTower]
+[Better Trader] Initializing config for [ShieldWood]
+[Better Trader] Initializing config for [SilverOre]
+[Better Trader] Initializing config for [SledgeIron]
+[Better Trader] Initializing config for [SledgeStagbreaker]
+[Better Trader] Initializing config for [SpearWolfFang]
+[Better Trader] Initializing config for [SpearElderbark]
+[Better Trader] Initializing config for [SpearChitin]
+[Better Trader] Initializing config for [SpearBronze]
+[Better Trader] Initializing config for [SpearFlint]
+[Better Trader] Initializing config for [SurtlingCore]
+[Better Trader] Initializing config for [SwordBlackmetal]
+[Better Trader] Initializing config for [SwordSilver]
+[Better Trader] Initializing config for [SwordIronFire]
+[Better Trader] Initializing config for [SwordIron]
+[Better Trader] Initializing config for [SwordBronze]
+[Better Trader] Initializing config for [Tankard]
+[Better Trader] Initializing config for [Thistle]
+[Better Trader] Initializing config for [TinOre]
+[Better Trader] Initializing config for [Torch]
+[Better Trader] Initializing config for [TrollHide]
+[Better Trader] Initializing config for [TrophyBlob]
+[Better Trader] Initializing config for [TrophyBoar]
+[Better Trader] Initializing config for [TrophyDeathsquito]
+[Better Trader] Initializing config for [TrophyDeer]
+[Better Trader] Initializing config for [TrophyDraugr]
+[Better Trader] Initializing config for [TrophyDraugrElite]
+[Better Trader] Initializing config for [TrophyDraugrFem]
+[Better Trader] Initializing config for [TrophyFenring]
+[Better Trader] Initializing config for [TrophyForestTroll]
+[Better Trader] Initializing config for [TrophyFrostTroll]
+[Better Trader] Initializing config for [TrophyGoblin]
+[Better Trader] Initializing config for [TrophyGoblinBrute]
+[Better Trader] Initializing config for [TrophyGoblinKing]
+[Better Trader] Initializing config for [TrophyGoblinShaman]
+[Better Trader] Initializing config for [TrophyGreydwarf]
+[Better Trader] Initializing config for [TrophyGreydwarfBrute]
+[Better Trader] Initializing config for [TrophyGreydwarfShaman]
+[Better Trader] Initializing config for [TrophyHatchling]
+[Better Trader] Initializing config for [TrophyLeech]
+[Better Trader] Initializing config for [TrophyLox]
+[Better Trader] Initializing config for [TrophyNeck]
+[Better Trader] Initializing config for [TrophySerpent]
+[Better Trader] Initializing config for [TrophySGolem]
+[Better Trader] Initializing config for [TrophySkeleton]
+[Better Trader] Initializing config for [TrophySkeletonPoison]
+[Better Trader] Initializing config for [TrophySurtling]
+[Better Trader] Initializing config for [TrophyWolf]
+[Better Trader] Initializing config for [TrophyWraith]
+[Better Trader] Initializing config for [Turnip]
+[Better Trader] Initializing config for [TurnipSeeds]
+[Better Trader] Initializing config for [Wishbone]
+[Better Trader] Initializing config for [WitheredBone]
+[Better Trader] Initializing config for [WolfFang]
+[Better Trader] Initializing config for [WolfPelt]
+[Better Trader] Initializing config for [Stone]
+[Better Trader] Initializing config for [Wood]
+[Better Trader] Initializing config for [RoundLog]
+[Better Trader] Initializing config for [RunestoneMagic]
+[Better Trader] Initializing config for [RunestoneRare]
+[Better Trader] Initializing config for [RunestoneEpic]
+[Better Trader] Initializing config for [RunestoneLegendary]
+[Better Trader] Initializing config for [ShardMagic]
+[Better Trader] Initializing config for [ShardRare]
+[Better Trader] Initializing config for [ShardEpic]
+[Better Trader] Initializing config for [ShardLegendary]
+[Better Trader] Initializing config for [DustMagic]
+[Better Trader] Initializing config for [DustRare]
+[Better Trader] Initializing config for [DustEpic]
+[Better Trader] Initializing config for [DustLegendary]
+[Better Trader] Initializing config for [ReagentMagic]
+[Better Trader] Initializing config for [ReagentRare]
+[Better Trader] Initializing config for [ReagentEpic]
+[Better Trader] Initializing config for [ReagentLegendary]
+[Better Trader] Initializing config for [EssenceMagic]
+[Better Trader] Initializing config for [EssenceRare]
+[Better Trader] Initializing config for [EssenceEpic]
+[Better Trader] Initializing config for [EssenceLegendary]
+
+[Info   :   BepInEx] Loading [BiggerBoatMapExploreRadius 1.0.0]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 1.0.1]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 03/28/2021 20:49:57: Starting to load scene:start
+
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] 03/28/2021 20:50:05: Valheim version:0.148.6
+
+[Info   : Unity Log] 03/28/2021 20:50:05: Render threading mode:SingleThreaded
+
+[Info   : Unity Log] 03/28/2021 20:50:05: Get create world TacoPlanet
+
+[Info   : Unity Log] 03/28/2021 20:50:05: Using environment steamid 892970
+
+[Info   : Unity Log] 03/28/2021 20:50:05: Using steam APPID:892970
+
+[Info   : Unity Log] 03/28/2021 20:50:05: Server ID 90071992547409920
+
+[Info   : Unity Log] 03/28/2021 20:50:05: Authentication:k_ESteamNetworkingAvailability_Waiting
+
+[Info   : Unity Log] 03/28/2021 20:50:05: Steam game server initialized
+
+[Warning: Unity Log] 03/28/2021 20:50:05: Missing audio clip in music respawn
+
+[Info   : Unity Log] 03/28/2021 20:50:05: Loaded localization English
+
+[Info   : Unity Log] 03/28/2021 20:50:05: Game server connected
+
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] 03/28/2021 20:50:06: Zonesystem Awake 274
+
+[Info   : Unity Log] 03/28/2021 20:50:06: DungeonDB Awake 274
+
+[Info   : Unity Log] 03/28/2021 20:50:06: Registering lobby
+
+[Info   : Unity Log] 03/28/2021 20:50:09: Load world TacoPlanet
+
+[Info   : Unity Log] 03/28/2021 20:50:09: Loading 805833 zdos , my id 3110220733 data version:26
+
+[Info   : Unity Log] 03/28/2021 20:50:11: Loaded 100000 dead zdos
+
+[Info   : Unity Log] 03/28/2021 20:50:11: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 03/28/2021 20:50:11: Loaded 7052 locations
+
+[Info   : Unity Log] 03/28/2021 20:50:12: Audioman already exist, destroying self
+
+[Info   : Unity Log] 03/28/2021 20:50:15: Zonesystem Start 274
+
+[Info   : Unity Log] 03/28/2021 20:50:15: DungeonDB Start 274
+
+[Info   : Unity Log] 03/28/2021 20:52:32: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 03/28/2021 20:52:32: New connection
+
+[Info   : Unity Log] 03/28/2021 20:52:32: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 03/28/2021 20:52:32: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 03/28/2021 20:52:32: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 03/28/2021 20:52:32: Connected
+
+[Info   : Unity Log] 03/28/2021 20:52:32: Got connection SteamID 76561198042160379
+
+[Info   : Unity Log] 03/28/2021 20:52:32: Got handshake from client 76561198042160379
+
+[Info   : Unity Log] 03/28/2021 20:52:32: VERSION check their:0.148.6  mine:0.148.6
+
+[Info   : Unity Log] 03/28/2021 20:52:32: Server: New peer connected,sending global keys
+
+[Info   : Unity Log] 03/28/2021 20:52:53: Got character ZDOID from Shadegate : 1262625910:1
+
+[Info   : Unity Log] 03/28/2021 21:00:15:  Connections 1 ZDOS:805877  sent:1 recv:408
+
+[Info   : Unity Log] 03/28/2021 21:01:22: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 03/28/2021 21:01:22: New connection
+
+[Info   : Unity Log] 03/28/2021 21:01:22: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 03/28/2021 21:01:22: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 03/28/2021 21:01:22: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 03/28/2021 21:01:22: Connected
+
+[Info   : Unity Log] 03/28/2021 21:01:22: Got connection SteamID 76561198006686557
+
+[Info   : Unity Log] 03/28/2021 21:01:22: Got handshake from client 76561198006686557
+
+[Info   : Unity Log] 03/28/2021 21:01:22: VERSION check their:0.148.6  mine:0.148.6
+
+[Info   : Unity Log] 03/28/2021 21:01:22: Server: New peer connected,sending global keys
+
+[Info   : Unity Log] 03/28/2021 21:01:41: Got character ZDOID from Darkfreack : -472293481:1
+
+[Info   : Unity Log] 03/28/2021 21:10:16:  Connections 2 ZDOS:805919  sent:0 recv:498
+
+[Info   : Unity Log] 03/28/2021 21:10:18: clone 1123
+
+[Info   : Unity Log] 03/28/2021 21:20:17:  Connections 2 ZDOS:806027  sent:604 recv:1038
+
+[Info   : Unity Log] 03/28/2021 21:21:50: Possible events:3
+
+[Info   : Unity Log] 03/28/2021 21:21:50: Random event set:foresttrolls
+
+[Info   : Unity Log] 03/28/2021 21:30:18:  Connections 2 ZDOS:806049  sent:1093 recv:1052
+
+[Info   : Unity Log] 03/28/2021 21:30:20: clone 1084
+
+[Info   : Unity Log] 03/28/2021 21:40:19:  Connections 2 ZDOS:806102  sent:816 recv:894
+
+[Info   : Unity Log] 03/28/2021 21:50:19:  Connections 2 ZDOS:806128  sent:759 recv:867
+
+[Info   : Unity Log] 03/28/2021 21:50:22: clone 1095
+
+[Info   : Unity Log] 03/28/2021 22:00:20:  Connections 2 ZDOS:806191  sent:1142 recv:904
+
+[Info   : Unity Log] 03/28/2021 22:10:21:  Connections 2 ZDOS:806207  sent:796 recv:890
+
+[Info   : Unity Log] 03/28/2021 22:10:24: clone 1077
+
+[Info   : Unity Log] 03/28/2021 22:19:19: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 03/28/2021 22:19:19: New connection
+
+[Info   : Unity Log] 03/28/2021 22:19:19: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 03/28/2021 22:19:19: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 03/28/2021 22:19:19: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 03/28/2021 22:19:19: Connected
+
+[Info   : Unity Log] 03/28/2021 22:19:19: Got connection SteamID 76561197963352392
+
+[Info   : Unity Log] 03/28/2021 22:19:19: Got handshake from client 76561197963352392
+
+[Info   : Unity Log] 03/28/2021 22:19:19: VERSION check their:0.148.6  mine:0.148.6
+
+[Info   : Unity Log] 03/28/2021 22:19:19: Server: New peer connected,sending global keys
+
+[Info   : Unity Log] 03/28/2021 22:19:40: Got character ZDOID from Epictaco : -214796458:1
+
+[Info   : Unity Log] 03/28/2021 22:20:22:  Connections 3 ZDOS:806220  sent:1648 recv:1199
+
+[Info   : Unity Log] 03/28/2021 22:21:16: RPC_Disconnect 
+
+[Info   : Unity Log] 03/28/2021 22:21:16: Destroying abandoned non persistent zdo -214796458:144 owner -214796458
+
+[Info   : Unity Log] 03/28/2021 22:21:16: Destroying abandoned non persistent zdo -214796458:1 owner -214796458
+
+[Info   : Unity Log] 03/28/2021 22:21:16: Destroying abandoned non persistent zdo -214796458:146 owner -214796458
+
+[Info   : Unity Log] 03/28/2021 22:21:16: Destroying abandoned non persistent zdo -214796458:145 owner -214796458
+
+[Info   : Unity Log] 03/28/2021 22:21:16: Disposing socket
+
+[Info   : Unity Log] 03/28/2021 22:21:16: Closing socket 76561197963352392
+
+[Info   : Unity Log] 03/28/2021 22:21:16:   send queue size:0
+
+[Info   : Unity Log] 03/28/2021 22:21:16: Disposing socket
+
+[Info   : Unity Log] 03/28/2021 22:21:16: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 03/28/2021 22:21:16: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 03/28/2021 22:21:16: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 03/28/2021 22:28:59: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 03/28/2021 22:28:59: New connection
+
+[Info   : Unity Log] 03/28/2021 22:28:59: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 03/28/2021 22:28:59: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 03/28/2021 22:28:59: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 03/28/2021 22:28:59: Connected
+
+[Info   : Unity Log] 03/28/2021 22:28:59: Got connection SteamID 76561197963352392
+
+[Info   : Unity Log] 03/28/2021 22:28:59: Got handshake from client 76561197963352392
+
+[Info   : Unity Log] 03/28/2021 22:28:59: VERSION check their:0.148.6  mine:0.148.6
+
+[Info   : Unity Log] 03/28/2021 22:28:59: Server: New peer connected,sending global keys
+
+[Info   : Unity Log] 03/28/2021 22:29:20: Got character ZDOID from Epictaco : 1296463401:1
+
+[Info   : Unity Log] 03/28/2021 22:30:23:  Connections 3 ZDOS:806276  sent:1570 recv:1121
+
+[Info   : Unity Log] 03/28/2021 22:30:26: clone 1101
+
+[Info   : Unity Log] 03/28/2021 22:36:00: RPC_Disconnect 
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Destroying abandoned non persistent zdo 1296463401:746 owner 1296463401
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Destroying abandoned non persistent zdo 1296463401:752 owner 1296463401
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Destroying abandoned non persistent zdo 1296463401:1 owner 1296463401
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Destroying abandoned non persistent zdo 1296463401:330 owner 1296463401
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Destroying abandoned non persistent zdo 1296463401:754 owner 1296463401
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Destroying abandoned non persistent zdo 1296463401:748 owner 1296463401
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Destroying abandoned non persistent zdo 1296463401:749 owner 1296463401
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Destroying abandoned non persistent zdo 1296463401:751 owner 1296463401
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Destroying abandoned non persistent zdo 1296463401:750 owner 1296463401
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Destroying abandoned non persistent zdo 1296463401:753 owner 1296463401
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Destroying abandoned non persistent zdo 1296463401:747 owner 1296463401
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Disposing socket
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Closing socket 76561197963352392
+
+[Info   : Unity Log] 03/28/2021 22:36:00:   send queue size:0
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Disposing socket
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 03/28/2021 22:36:00: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 03/28/2021 22:40:24:  Connections 2 ZDOS:806274  sent:931 recv:884
+
+[Info   : Unity Log] 03/28/2021 22:50:25:  Connections 2 ZDOS:806370  sent:952 recv:1092
+
+[Info   : Unity Log] 03/28/2021 22:50:28: clone 1095
+
+[Info   : Unity Log] 03/28/2021 23:00:26:  Connections 2 ZDOS:806489  sent:648 recv:634
+
+[Info   : Unity Log] 03/28/2021 23:10:26:  Connections 2 ZDOS:806600  sent:923 recv:1051
+
+[Info   : Unity Log] 03/28/2021 23:10:30: clone 1102
+
+[Info   : Unity Log] 03/28/2021 23:14:57: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 03/28/2021 23:14:57: New connection
+
+[Info   : Unity Log] 03/28/2021 23:14:57: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 03/28/2021 23:14:57: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 03/28/2021 23:14:57: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 03/28/2021 23:14:57: Connected
+
+[Info   : Unity Log] 03/28/2021 23:14:57: Got connection SteamID 76561197963352392
+
+[Info   : Unity Log] 03/28/2021 23:14:57: Got handshake from client 76561197963352392
+
+[Info   : Unity Log] 03/28/2021 23:14:57: VERSION check their:0.148.6  mine:0.148.6
+
+[Info   : Unity Log] 03/28/2021 23:14:57: Server: New peer connected,sending global keys
+
+[Info   : Unity Log] 03/28/2021 23:15:18: Got character ZDOID from Epictaco : 829522163:1
+
+[Info   : Unity Log] 03/28/2021 23:15:28: RPC_Disconnect 
+
+[Info   : Unity Log] 03/28/2021 23:15:28: Destroying abandoned non persistent zdo 829522163:1 owner 829522163
+
+[Info   : Unity Log] 03/28/2021 23:15:28: Disposing socket
+
+[Info   : Unity Log] 03/28/2021 23:15:28: Closing socket 76561197963352392
+
+[Info   : Unity Log] 03/28/2021 23:15:28:   send queue size:0
+
+[Info   : Unity Log] 03/28/2021 23:15:28: Disposing socket
+
+[Info   : Unity Log] 03/28/2021 23:15:28: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 03/28/2021 23:15:28: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 03/28/2021 23:15:28: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 03/28/2021 23:19:00: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 03/28/2021 23:19:00: New connection
+
+[Info   : Unity Log] 03/28/2021 23:19:00: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 03/28/2021 23:19:00: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 03/28/2021 23:19:00: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 03/28/2021 23:19:00: Connected
+
+[Info   : Unity Log] 03/28/2021 23:19:00: Got connection SteamID 76561197963352392
+
+[Info   : Unity Log] 03/28/2021 23:19:00: Got handshake from client 76561197963352392
+
+[Info   : Unity Log] 03/28/2021 23:19:00: VERSION check their:0.148.6  mine:0.148.6
+
+[Info   : Unity Log] 03/28/2021 23:19:00: Server: New peer connected,sending global keys
+
+[Info   : Unity Log] 03/28/2021 23:19:21: Got character ZDOID from Epictaco : 371772665:1
+
+[Info   : Unity Log] 03/28/2021 23:20:28:  Connections 3 ZDOS:806673  sent:1561 recv:1363
+
+[Info   : Unity Log] 03/28/2021 23:30:28:  Connections 3 ZDOS:806686  sent:1112 recv:1263
+
+[Info   : Unity Log] 03/28/2021 23:30:32: clone 1142
+
+[Info   : Unity Log] 03/28/2021 23:34:03: Time 433775.179614987, day:240    nextm:434070.000010729  skipspeed:24.568366311801
+
+[Info   : Unity Log] 03/28/2021 23:39:50: Placed locations in zone 42,60  duration 3.099 ms
+
+[Info   : Unity Log] 03/28/2021 23:40:29:  Connections 3 ZDOS:807574  sent:205 recv:370
+
+[Info   : Unity Log] 03/28/2021 23:40:32: Loading dungeon
+
+[Info   : Unity Log] 03/28/2021 23:40:32: Dungeon loaded 0
+
+[Info   : Unity Log] 03/28/2021 23:40:32: Dungeon load time 0.425 ms
+
+[Info   : Unity Log] 03/28/2021 23:40:32: Available rooms:17
+
+[Info   : Unity Log] 03/28/2021 23:40:32: To place:25
+
+[Info   : Unity Log] 03/28/2021 23:40:33: Placed 29 rooms
+
+[Info   : Unity Log] 03/28/2021 23:40:33: Force generaeting hmap (2816.0, 0.0, 3840.0)
+
+[Info   : Unity Log] 03/28/2021 23:40:33: Placed locations in zone 44,60  duration 396.747 ms
+
+[Info   : Unity Log] 03/28/2021 23:40:48: Loading dungeon
+
+[Info   : Unity Log] 03/28/2021 23:40:48: Dungeon loaded 0
+
+[Info   : Unity Log] 03/28/2021 23:40:48: Dungeon load time 0.226 ms
+
+[Info   : Unity Log] 03/28/2021 23:40:48: Available rooms:17
+
+[Info   : Unity Log] 03/28/2021 23:40:48: To place:25
+
+[Info   : Unity Log] 03/28/2021 23:40:48: Placed 14 rooms
+
+[Info   : Unity Log] 03/28/2021 23:40:48: Force generaeting hmap (2880.0, 0.0, 3392.0)
+
+[Info   : Unity Log] 03/28/2021 23:40:48: Placed locations in zone 45,53  duration 78.341 ms
+
+[Info   : Unity Log] 03/28/2021 23:41:52: Placed locations in zone 46,54  duration 8.383 ms
+
+[Info   : Unity Log] 03/28/2021 23:46:38: RPC_Disconnect 
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:1 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:14312 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:14204 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:16617 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:29509 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:29510 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:29527 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:29630 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:30540 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:30539 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:30541 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Destroying abandoned non persistent zdo -472293481:30538 owner -472293481
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Disposing socket
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Closing socket 76561198006686557
+
+[Info   : Unity Log] 03/28/2021 23:46:38:   send queue size:0
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Disposing socket
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 03/28/2021 23:46:38: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 03/28/2021 23:50:31:  Connections 2 ZDOS:811192  sent:0 recv:887
+
+[Info   : Unity Log] 03/28/2021 23:50:35: clone 1116
+
+[Info   : Unity Log] 03/28/2021 23:50:44: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 03/28/2021 23:50:44: New connection
+
+[Info   : Unity Log] 03/28/2021 23:50:44: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 03/28/2021 23:50:44: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 03/28/2021 23:50:44: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 03/28/2021 23:50:44: Connected
+
+[Info   : Unity Log] 03/28/2021 23:50:44: Got connection SteamID 76561198006686557
+
+[Info   : Unity Log] 03/28/2021 23:50:45: Got handshake from client 76561198006686557
+
+[Info   : Unity Log] 03/28/2021 23:50:45: VERSION check their:0.148.6  mine:0.148.6
+
+[Info   : Unity Log] 03/28/2021 23:50:45: Server: New peer connected,sending global keys
+
+[Info   : Unity Log] 03/28/2021 23:51:03: Got character ZDOID from Darkfreack : -1061433709:1
+
+[Info   : Unity Log] 03/29/2021 00:00:32:  Connections 3 ZDOS:811321  sent:619 recv:1033
+
+[Info   : Unity Log] 03/29/2021 00:10:32:  Connections 3 ZDOS:811370  sent:1495 recv:907
+
+[Info   : Unity Log] 03/29/2021 00:10:37: clone 1194
+
+[Info   : Unity Log] 03/29/2021 00:20:34:  Connections 3 ZDOS:811472  sent:1323 recv:1222
+
+[Info   : Unity Log] 03/29/2021 00:27:06: Time 437236.479939952, day:242    nextm:437670.000010729  skipspeed:36.1266725646953
+
+[Info   : Unity Log] 03/29/2021 00:30:34:  Connections 3 ZDOS:811580  sent:1124 recv:804
+
+[Info   : Unity Log] 03/29/2021 00:30:39: clone 1119
+
+[Info   : Unity Log] 03/29/2021 00:40:35:  Connections 3 ZDOS:811669  sent:880 recv:1083
+
+[Info   : Unity Log] 03/29/2021 00:46:42: RPC_Disconnect 
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10704 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10685 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10792 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10686 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10688 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10962 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10966 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10683 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10886 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10689 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:1 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10965 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10684 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10964 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10963 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Destroying abandoned non persistent zdo 371772665:10687 owner 371772665
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Disposing socket
+
+[Info   : Unity Log] 03/29/2021 00:46:42: Closing socket 76561197963352392
+
+[Info   : Unity Log] 03/29/2021 00:46:42:   send queue size:0
+
+[Info   : Unity Log] 03/29/2021 00:46:43: Disposing socket
+
+[Info   : Unity Log] 03/29/2021 00:46:43: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 03/29/2021 00:46:43: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 03/29/2021 00:46:43: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 03/29/2021 00:50:36:  Connections 2 ZDOS:811602  sent:966 recv:640
+
+[Info   : Unity Log] 03/29/2021 00:50:41: clone 1128
+
+[Info   : Unity Log] 03/29/2021 00:50:49: RPC_Disconnect 
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31055 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31476 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31479 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31050 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31052 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31051 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31049 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31053 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31477 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31302 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:1 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31303 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31474 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31478 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31245 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31301 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31475 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Destroying abandoned non persistent zdo 1262625910:31131 owner 1262625910
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Disposing socket
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Closing socket 76561198042160379
+
+[Info   : Unity Log] 03/29/2021 00:50:49:   send queue size:0
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Disposing socket
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 03/29/2021 00:50:49: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 03/29/2021 01:00:37:  Connections 1 ZDOS:811639  sent:0 recv:473
+
+[Info   : Unity Log] 03/29/2021 01:00:40: RPC_Disconnect 
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:10222 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:10223 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:9502 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:8219 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:9503 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:8236 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:8249 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:8218 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:1 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:10221 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:9501 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:10224 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:10226 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:9547 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:8217 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:10225 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Destroying abandoned non persistent zdo -1061433709:8220 owner -1061433709
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Disposing socket
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Closing socket 76561198006686557
+
+[Info   : Unity Log] 03/29/2021 01:00:40:   send queue size:0
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Disposing socket
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 03/29/2021 01:00:40: Got status changed msg k_ESteamNetworkingConnectionState_None
+
