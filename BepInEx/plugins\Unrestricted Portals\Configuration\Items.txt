@@ -1,2 +1,0 @@
-CopperOre: Unrestricted
-TinOre: Unrestricted

@@ -1,2 +1,0 @@
-Restrict-All: False
-Restrict-None: True
