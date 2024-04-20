@@ -1,0 +1,105 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - valheim (3/21/2024 7:13:37 PM)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2022.3.12.5236448
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 5 plugins to load
+[Info   :   BepInEx] Loading [PlantEasily 1.7.2]
+[Info   :   BepInEx] Loading [Jotunn 2.17.0]
+[Info   :Jotunn.Main] Initializing ModCompatibility
+[Info   :Jotunn.Main] Initializing SynchronizationManager
+[Info   :Jotunn.Main] Initializing NetworkManager
+[Info   :   BepInEx] Loading [ValheimRAFT 1.6.14]
+[Info   :Jotunn.Main] Initializing CommandManager
+[Info   :Jotunn.Main] Initializing PrefabManager
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.2]
+[Info   :   BepInEx] Loading [Epic Loot 0.9.37]
+[Info   : Unity Log] 03/22/2024 20:18:34: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 03/22/2024 20:18:34: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 03/22/2024 20:18:34: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 03/22/2024 20:18:34: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 03/22/2024 20:18:34: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 03/22/2024 20:18:34: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 03/22/2024 20:18:34: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 03/22/2024 20:18:34: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 03/22/2024 20:18:34: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 03/22/2024 20:18:34: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Message:   BepInEx] Chainloader startup complete
+[Warning: Unity Log] 03/22/2024 20:18:41: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Warning: Unity Log] 03/22/2024 20:18:41: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Warning: Unity Log] Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
+[Warning: Unity Log] Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
+[Warning: Unity Log] Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
+[Info   :Jotunn.Main] Initializing LocalizationManager
+[Info   : Unity Log] 03/22/2024 20:18:41: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 03/22/2024 20:18:50: Using steam_appid.txt
+
+[Info   : Unity Log] 03/22/2024 20:18:50: Using steam APPID:892970
+
+[Info   : Unity Log] 03/22/2024 20:18:50: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 03/22/2024 20:18:50: Steam initialized, persona:EpicTaco
+
+[Info   : Unity Log] 03/22/2024 20:18:50: PlayFab custom ID set to "Steam_76561197963352392"
+
+[Info   : Unity Log] 03/22/2024 20:18:50: Using default prefs
+
+[Info   : Unity Log] 03/22/2024 20:18:50: Valheim version: 0.217.38 (network version 20)
+
+[Info   : Unity Log] Trying to set graphic mode to 'Custom'
+[Info   : Unity Log] Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
+[Info   : Unity Log] Graphic mode 'Custom' applied!
+[Info   : Unity Log] 03/22/2024 20:18:50: Worldgenerator version setup:2
+
+[Info   :Jotunn.Managers.CommandManager] Adding 4 commands to the Console
+[Info   : Unity Log] 03/22/2024 20:18:50: Render threading mode:MultiThreaded
+
+[Warning: Unity Log] 03/22/2024 20:18:50: Set button "CamZoomIn" to None!
+
+[Warning: Unity Log] 03/22/2024 20:18:50: Set button "CamZoomOut" to None!
+
+[Warning: Unity Log] 03/22/2024 20:18:50: Set button "CamZoomIn" to None!
+
+[Warning: Unity Log] 03/22/2024 20:18:50: Set button "CamZoomOut" to None!
+
+[Warning: Unity Log] 03/22/2024 20:18:51: Missing audio clip in music respawn
+
+[Info   : Unity Log] 03/22/2024 20:18:51: Checking for installed DLCs
+
+[Info   : Unity Log] 03/22/2024 20:18:51: DLC:beta installed:False
+
+[Error  :ValheimRAFT.CustomTextureGroup] ValheimRAFT: Unable to detect modFolder path, this will cause mesh issues with sails. Please set ValheimRAFT mod folder in the BepInExConfig file. The ValheimRAFT folder should found within this directory E:\SteamLibrary\steamapps\common\Valheim\BepInEx\plugins
+[Error  :ValheimRAFT.CustomTextureGroup] ValheimRAFT: Unable to detect modFolder path, this will cause mesh issues with sails. Please set ValheimRAFT mod folder in the BepInExConfig file. The ValheimRAFT folder should found within this directory E:\SteamLibrary\steamapps\common\Valheim\BepInEx\plugins
+[Error  :ValheimRAFT.CustomTextureGroup] ValheimRAFT: Unable to detect modFolder path, this will cause mesh issues with sails. Please set ValheimRAFT mod folder in the BepInExConfig file. The ValheimRAFT folder should found within this directory E:\SteamLibrary\steamapps\common\Valheim\BepInEx\plugins
+[Info   :Jotunn.Main] Initializing PieceManager
+[Info   :Jotunn.Main] Initializing MockManager
+[Info   : Unity Log] 03/22/2024 20:18:52: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 03/22/2024 20:18:52: Starting music menu
+
+[Info   : Unity Log] 03/22/2024 20:18:53: PlayFab logged in as "Steam_76561197963352392"
+
+[Info   : Unity Log] 03/22/2024 20:18:53: PlayFab local entity ID is BA74F9FF2713FB3E
+
